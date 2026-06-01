@@ -1,6 +1,4 @@
 # 우마뾰이하는 리세마라 매크로
-![우마뾰이](umapyoi.gif)
-
 
 # Installation
 1. [Python 다운로드](https://www.python.org/) 및 설치  
